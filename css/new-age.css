@@ -200,39 +200,39 @@ header.masthead .device-container .screen img {
   }
 }
 
-section.download {
+section.technology {
   position: relative;
   padding: 100px 0;
   background-color: rgb(112, 182, 230);
 }
 
-section.download h2 {
+section.technology h2 {
   font-size: 50px;
   margin-top: 0;
 }
 
-section.download .badges .badge-link {
+section.technology .badges .badge-link {
   display: block;
   margin-bottom: 25px;
 }
 
-section.download .badges .badge-link:last-child {
+section.technology .badges .badge-link:last-child {
   margin-bottom: 0;
 }
 
-section.download .badges .badge-link img {
+section.technology .badges .badge-link img {
   height: 60px;
 }
 
 @media (min-width: 768px) {
-  section.download .badges .badge-link {
+  section.technology .badges .badge-link {
     display: inline-block;
     margin-bottom: 0;
   }
 }
 
 @media (min-width: 768px) {
-  section.download h2 {
+  section.technology h2 {
     font-size: 50px;
   }
 }
