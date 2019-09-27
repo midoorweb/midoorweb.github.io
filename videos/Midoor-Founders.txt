@@ -1,1 +1,7 @@
+<!DOCTYPE html>
+
+<head>
 <meta http-equiv="Refresh" content="1; url=https://youtu.be/V6tPFfJLYh8">
+</head>
+
+</html>
